@@ -19,4 +19,8 @@ Other Azure Technologies: App Service
 
 
 
-final result::
+final result:: https://patilrestaurant.azurewebsites.net
+
+video demo link :: https://screenrec.com/share/kMpTJIuxmS
+
+THANK YOU!!!!!!
